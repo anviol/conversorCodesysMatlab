@@ -7,4 +7,4 @@ Projeto para converter os arquivos gerados pelo Cliente OPC para serem carregado
 
 3) Troque o caminho do arquivo de origem e do arquivo de destino;
 
-4) Exevute 'npm star';
+4) Execute 'npm star';
