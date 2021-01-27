@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "buffer-replace": "^1.0.0",
     "nodemon": "^2.0.7"
   }
 }
